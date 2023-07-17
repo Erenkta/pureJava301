@@ -11,11 +11,13 @@ public class Stream {
 		/*
 		 * Javada 2 tip stream sınıfı bulunur
 		 * Karakter Stream -> Yüksek seviyeli karakter tabanlı soyut sınıflar
-		 * -->Reader and Writer
+		 * -->Reader and Writer --> Karakter için
 		 * Byte Stream -> Düşük seviye byte tabanlı soyut sınıflar
-		 * -->InputStream and OutputStream
+		 * -->InputStream and OutputStream --> Byte için
 		 * 
 		 * Streamleri kullandıktan sonra final içinde kapatmayı unutma
+		 * 
+		 * StreamBuffer kullanmak her zaman daha performanslıdır.Ama yer ayırmamız lazım
 		 */
 
 		File file = new File("hello.txt"); //ilk olarak kaynağımızı belirtiyoruz
