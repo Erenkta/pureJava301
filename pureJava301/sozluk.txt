@@ -1,0 +1,8 @@
+Araba:Car
+Ev:Home
+Kalem:Pencil
+Hayvan:Animal
+Kedi:Cat
+Kopek:Dog
+Kos:Run
+Yuru:Walk
