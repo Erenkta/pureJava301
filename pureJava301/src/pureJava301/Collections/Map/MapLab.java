@@ -25,5 +25,4 @@ public class MapLab {
 			System.out.println("Key : " + units.getKey() + " Values : "+units.getValue());
 		}
 	}
-	FileWriter
 }
