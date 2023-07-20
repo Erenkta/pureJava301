@@ -1,4 +1,4 @@
-package pureJava301.Java8News;
+package pureJava301.Java8News.LambdaExpressions;
 
 import java.io.Serializable;
 import java.time.LocalDate;

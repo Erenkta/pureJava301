@@ -1,10 +1,10 @@
-package pureJava301.Java8News;
+package pureJava301.Java8News.LambdaExpressions;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import pureJava301.Java8News.Kisi.Cinsiyet;
+import pureJava301.Java8News.LambdaExpressions.Kisi.Cinsiyet;
 
 public class lambdaExpressions {
 	
